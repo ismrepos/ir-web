@@ -1,5 +1,16 @@
 /* Customize the site */
 /* TODO */
+.container {
+    max-width: 1000px;
+}
+
+.panelwindow {
+    height: 250px;
+}
+
+.newshead {
+    background-color: #eeeeee;
+}
 
 /* Customize the navbar */
 /* TODO */
