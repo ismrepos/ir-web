@@ -12,5 +12,27 @@
     background-color: #eeeeee;
 }
 
+#banner {
+    height: auto;
+    width: 100%;
+}
+
+.heavy_color {
+    background-color: #00184d;
+    border-color: #00184d;
+    color: #ffffff;
+}
+
+.light_color {
+    background-color: #c1cada;
+}
+
+.text-white {
+    color: #ffffff;
+}
+
+.inline_contents {
+    background-color: transparent;
+}
 /* Customize the navbar */
 /* TODO */
